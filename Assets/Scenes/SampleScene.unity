@@ -460,6 +460,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xMovementSpeed: 0.2
   posLim: 4
+  leftLim: -4
+  toRight: 0
+  prefab1: {fileID: 7401167786892750361, guid: fdfbd573ddeb0d6468a2fca06ebe49ba, type: 3}
+  prefab2: {fileID: 3156436121540879503, guid: eedfcf9cb385f2d46b7b4e3bc2a1ac3f, type: 3}
 --- !u!1 &1834747951
 GameObject:
   m_ObjectHideFlags: 0
